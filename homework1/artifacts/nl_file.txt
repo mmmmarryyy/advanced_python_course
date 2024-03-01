@@ -1,0 +1,8 @@
+maria.barkovskaya@MacBook-Air-Maria-2 homework1 % python3 scripts/nl.py test_files/file1.txt
+     1  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+     2  bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+     3  cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+     4  dddddddddddddddd
+     5  eeeee
+     6  fffffffffffffffffffffffffffffffffffffffffffff
+     7  g

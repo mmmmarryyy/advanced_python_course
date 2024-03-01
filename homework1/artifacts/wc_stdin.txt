@@ -1,0 +1,10 @@
+maria.barkovskaya@MacBook-Air-Maria-2 homework1 % python3 scripts/wc.py                                                      
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+dddddddddddddddd
+eeeee
+fffffffffffffffffffffffffffffffffffffffffffff
+g
+^D
+       7       7     316

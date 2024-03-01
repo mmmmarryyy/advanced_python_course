@@ -1,0 +1,8 @@
+maria.barkovskaya@MacBook-Air-Maria-2 homework1 % python3 scripts/tail.py                                          
+pupupu
+purururu
+skg jvnserrtobfdl
+^D
+pupupu
+purururu
+skg jvnserrtobfdl

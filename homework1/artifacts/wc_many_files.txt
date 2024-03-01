@@ -1,0 +1,5 @@
+maria.barkovskaya@MacBook-Air-Maria-2 homework1 % python3 scripts/wc.py test_files/file1.txt test_files/file2.txt test_files/file3.txt 
+       6       7     315 test_files/file1.txt
+       6       7     425 test_files/file2.txt
+      27      28    1276 test_files/file3.txt
+      39      42    2016 total
