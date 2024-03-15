@@ -1,0 +1,7 @@
+pyproject.toml
+src/small_latex_module_mmmmarryyy/__init__.py
+src/small_latex_module_mmmmarryyy/module_file.py
+src/small_latex_module_mmmmarryyy.egg-info/PKG-INFO
+src/small_latex_module_mmmmarryyy.egg-info/SOURCES.txt
+src/small_latex_module_mmmmarryyy.egg-info/dependency_links.txt
+src/small_latex_module_mmmmarryyy.egg-info/top_level.txt

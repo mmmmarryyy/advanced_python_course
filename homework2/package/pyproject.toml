@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "small_latex_module_mmmmarryyy"
+version = "0.0.1"
+authors = [
+  { name="Barkovskaya Maria", email="barkovskaya.maria@mail.ru" },
+]
+description = "A small package for working with tables and images in latex"
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/mmmmarryyy/advanced_python_course"
+Issues = "https://github.com/mmmmarryyy/advanced_python_course/issues"

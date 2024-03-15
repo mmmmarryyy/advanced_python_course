@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: small_latex_module_mmmmarryyy
+Version: 0.0.1
+Summary: A small package for working with tables and images in latex
+Author-email: Barkovskaya Maria <barkovskaya.maria@mail.ru>
+Project-URL: Homepage, https://github.com/mmmmarryyy/advanced_python_course
+Project-URL: Issues, https://github.com/mmmmarryyy/advanced_python_course/issues
+Requires-Python: >=3.8
