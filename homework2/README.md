@@ -14,6 +14,11 @@
 
 [2_1.tex](./artifacts/2_1.tex)
 
+### Files
+
+- [generate_file1.py](./src/generate_file1.py)
+- [generate_table.py](./src/generate_table.py)
+
 ## 2.2
 
 Написать функцию для генерации картинок в латех. (В том же модуле что и предыдущую функцию)
@@ -31,6 +36,13 @@
 - [2_2.pdf](./artifacts/2_2.pdf)
 - [link](./artifacts/2_2_link.txt)
 
+### Files
+
+- [файлы библиотеки](./package/)
+- [generate_file2.py](./src/generate_file2.py)
+- [2_2.tex](./artifacts/2_2.tex), сгенерированный файлом выше
+- [картинка](./test_image/kittens.jpg)
+
 ## 2.3
 
 Скорее всего, для задачи 2.2 вы руками установили какие-то бинарные зависимости латеха. Если другой разработчик захочет переиспользовать ваш код, то ему придется проделать тоже самое. Чтобы этого избежать, обычно используют Docker. 
@@ -44,3 +56,8 @@
 ### Артефакты
 
 - [Dockerfile](./src/Dockerfile)
+
+### Files
+
+- [docker-compose](./src/docker-compose.yaml)
+- [2-3.pdf](./artifacts/2_3.pdf), полученный с помощью докера
