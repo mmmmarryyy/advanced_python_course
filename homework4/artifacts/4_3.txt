@@ -1,0 +1,17 @@
+maria.barkovskaya@Air-Maria-2 src % python task3.py
+abc
+13:05:59 - send abc
+13:05:59 - receive nop
+PUPU
+13:06:00 - send PUPU
+QWErty
+13:06:02 - send QWErty
+13:06:04 - receive chch
+star
+13:06:06 - send star
+13:06:09 - receive djregl
+top
+13:06:10 - send top
+13:06:14 - receive fgne
+13:06:19 - receive gbc
+terminate

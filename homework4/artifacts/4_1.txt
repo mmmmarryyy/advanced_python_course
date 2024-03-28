@@ -1,0 +1,3 @@
+synchronous launch: 16.878418922424316
+launch using threading: 17.007846117019653
+launch using multiprocessing: 3.4052937030792236
